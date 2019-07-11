@@ -1,0 +1,14 @@
+{
+  "bot": {
+    "token": "top-secret",
+    "getUpdatesTimeout": "60000",
+    "timerEventInterval": "60000"
+  },
+  "database": {
+    "url": "mongodb://hostname:27017/database_name"
+  },
+  "reminder": {
+    "timeZone": "Europe/Berlin",
+    "remindHours": [9, 22]
+  }
+}

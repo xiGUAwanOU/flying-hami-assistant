@@ -1,2 +1,2 @@
-# flying-hami-assistant
+# Flying Hami Assistant
 Telegram bot for personal use
